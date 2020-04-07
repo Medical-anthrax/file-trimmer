@@ -35,4 +35,4 @@ Note that with different versions, the numbers at the end will change.
 
 ## Credits
 
-This program was created by Carlo Tran, aka Medical Anthrax and the help of many, many stack overflow users.  Thanks to all of you for taking the time out of your day to help newer programmers out with their problems.
+This program was created by Medical Anthrax and the help of many, many stack overflow users.  Thanks to all of you for taking the time out of your day to help newer programmers out with their problems.
